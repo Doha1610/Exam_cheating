@@ -25,9 +25,11 @@ Component	Technology
 Web Dashboard	PHP, HTML, JavaScript
 AI Engine	Python, OpenCV, YOLOv8, Dlib
 Database	MySQL / JSON logs
+* DEMO
+  https://youtu.be/NawC7Hq7atI?si=_chlVJPs0c1t6Umu
 🔍 AI Features
 
-Face recognition (identify students by ID)
+Face recognition 
 
 Head pose estimation (detect looking left, right, down)
 
@@ -87,5 +89,6 @@ Proctoring systems
 Developed by Doha (AI Engineer)
 AI, Computer Vision, Deep Learning
 # Exam_cheating
+
 
 
