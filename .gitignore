@@ -1,0 +1,11 @@
+__pycache__/
+venv/
+venv310/
+*.pt
+*.bz2
+*.dat
+*.jpg
+*.png
+*.csv
+*.json
+*.txt
