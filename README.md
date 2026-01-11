@@ -26,8 +26,8 @@ Web Dashboard	PHP, HTML, JavaScript
 AI Engine	Python, OpenCV, YOLOv8, Dlib
 Database	MySQL / JSON logs
 * DEMO
-  https://youtu.be/NawC7Hq7atI?si=_chlVJPs0c1t6Umu
-🔍 AI Features
+[  https://youtu.be/NawC7Hq7atI?si=_chlVJPs0c1t6Umu
+](https://youtu.be/PLJ4Scf_OT0)🔍 AI Features
 
 Face recognition 
 
@@ -88,6 +88,7 @@ Proctoring systems
 
 Developed by Doha (AI Engineer)
 AI, Computer Vision, Deep Learning
+
 
 
 
