@@ -60,8 +60,8 @@ python main.py
 Use XAMPP or Apache
 Open:
 
-http://localhost/quanlythi/index.php
-
+[http://localhost/quanlythi/index.php
+](http://localhost/phpmyadmin/index.php?route=/database/structure&db=quanlythi)
 📊 Output
 
 Real-time room status
@@ -87,4 +87,5 @@ Proctoring systems
 Developed by Doha (AI Engineer)
 AI, Computer Vision, Deep Learning
 # Exam_cheating
+
 
